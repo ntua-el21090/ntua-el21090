@@ -9,11 +9,11 @@ I enjoy working on problems at the intersection of **data, graphs, and scalable 
 ## Technical Skills
 
 **Programming**
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,git&perline=7" />
-
+- Python, Java, C/C++, SQL
+  
 **ML / AI**
-- <img src="https://skillicons.dev/icons?ipytorch,tensorflow,sklearn&perline=7" />
-- Graph Neural Networks, forecasting, classification  
+- PyTorch, TensorFlow, scikit-learn  
+- Graph Neural Networks, forecasting, classification   
 
 **Software Engineering**
 - REST APIs, Flask
