@@ -8,15 +8,19 @@ I enjoy working on problems at the intersection of **data, graphs, and scalable 
 
 ## Technical Skills
 
+## 🛠 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,pytorch,tensorflow,sklearn,flask,docker,postgres,mongodb,linux,git&perline=7" />
+
 **Programming**
-- Python, Java, C/C++, SQL
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,git&perline=7" />
 
 **ML / AI**
-- PyTorch, TensorFlow, scikit-learn  
+- <img src="https://skillicons.dev/icons?ipytorch,tensorflow,sklearn&perline=7" />
 - Graph Neural Networks, forecasting, classification  
 
 **Software Engineering**
-- REST APIs, Flask  
+- REST APIs, Flask
 - Docker, microservices, async messaging (RabbitMQ)  
 - Relational DBs (Postgres, MySQL), MongoDB  
 - Git, Linux  
