@@ -8,10 +8,6 @@ I enjoy working on problems at the intersection of **data, graphs, and scalable 
 
 ## Technical Skills
 
-## 🛠 Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,pytorch,tensorflow,sklearn,flask,docker,postgres,mongodb,linux,git&perline=7" />
-
 **Programming**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,sql,git&perline=7" />
 
