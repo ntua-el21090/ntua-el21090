@@ -2,7 +2,7 @@
 
 Electrical & Computer Engineering final-year student (NTUA) focused on **Machine Learning + Software Engineering**, with hands-on experience building **reproducible ML pipelines** and **production-style systems**.
 
-I enjoy working on problems at the intersection of **data, graphs, and scalable software** — from experimentation to deployment.
+I enjoy working on problems at the intersection of **data, artificial intelligence, and scalable software** — from experimentation to deployment.
 
 ---
 
